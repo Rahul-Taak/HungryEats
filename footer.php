@@ -135,7 +135,7 @@ footer {
                         <h6 class="text-uppercase fw-bold mb-4">Contact Us</h6>
                         <p><i class="fas fa-home"></i>Abohar, District Fazilka</p>
                         <p><i class="fas fa-envelope"></i>rtaak786@gmail.com</p>
-                        <p><i class="fas fa-phone"></i>+ 91 75085 10226</p>
+                        <p><i class="fas fa-phone"></i>+91 75085 10226</p>
                     </div>
                     <!-- Grid column -->
                 </div>
@@ -147,7 +147,7 @@ footer {
         <!-- Copyright -->
         <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
             | © <?php echo date('Y')?> Copyright: Designed By
-            <a class="text-reset fw-bold" href="https://rahulprofile.free.nf" target="_blank">Rahul Taak</a>
+            <a class="text-reset fw-bold" href="https://rahul-taak.github.io/Portfolio/" target="_blank">Rahul Taak</a>
             All Right Reserved |
         </div>
         <!-- Copyright -->
