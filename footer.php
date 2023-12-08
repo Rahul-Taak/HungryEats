@@ -81,7 +81,7 @@ footer {
                             <i class="fas fa-gem"></i>HUNGRY EATS
                         </h6>
                         <p>
-                            Launched in 2022, And developed by Rahul Taak. Our technology platform connects customers,
+                            Launched in 2022, And developed by Rahul, Our technology platform connects customers,
                             restaurant partners and delivery partners, serving their multiple needs.
                         </p>
                     </div>
@@ -147,7 +147,7 @@ footer {
         <!-- Copyright -->
         <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
             | © <?php echo date('Y')?> Copyright: Designed By
-            <a class="text-reset fw-bold" href="https://rahul-taak.github.io/Portfolio/" target="_blank">Rahul Taak</a>
+            <a class="text-reset fw-bold" href="https://rahul-taak.github.io/Portfolio/" target="_blank">Rahul</a>
             All Right Reserved |
         </div>
         <!-- Copyright -->
