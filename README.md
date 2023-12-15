@@ -1,7 +1,7 @@
 # HungryEats
 A Food Delivery Website created using HTML, CSS , JS by Rahul
 
-# Roots :-
+# Routes :-
 Home Page
 About Page
 Menu Page
